@@ -1,6 +1,6 @@
 # Automation Testing Notes – Todo Web App
 
-These are simple automation ideas using Selenium (or Playwright):
+These are automation ideas using Selenium or Playwright:
 
 1. Verify adding a new todo works
 2. Verify editing a todo updates correctly
